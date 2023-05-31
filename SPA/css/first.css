@@ -1,0 +1,50 @@
+.First{
+    width: 100%;
+    height: auto;
+    padding: 300px 0 318px 0;
+    background-image: url(../image/sparesort.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first_wrapper{
+    max-width: 1430px;
+    margin: 0 auto;
+    height:auto;
+}
+
+.text_block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    max-width: 828px;
+}
+.text_block h1{
+font-family: var(--fontEv);
+font-size: 64px;
+font-weight: 700;
+line-height: 76px;
+color: var(--white);
+}
+.text_block span{
+    font-family: var(--fontMont);
+font-size: 20px;
+font-weight: 400;
+line-height: 33px;
+color: var(--white);
+text-align: justify;
+    }
+
+    .buttonYellow{
+        height: 57px;
+        width: 186px;
+        border-radius: 46px;
+        border: none;
+        padding: 12px 32px 12px 32px;
+        background: var(--yellow);
+        font-family: var(--fontMont);
+font-size: 20px;
+font-weight: 600;
+line-height: 33px;
+    }

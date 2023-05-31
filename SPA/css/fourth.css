@@ -1,0 +1,12 @@
+.Fourth{
+    width: 100%;
+    height: auto;
+    padding: 150px 0 150px 0;
+    background: var(--white);
+}
+
+.fourth_wrapper{
+    max-width: 1430px;
+    margin: 0 auto;
+    height:auto;
+}
